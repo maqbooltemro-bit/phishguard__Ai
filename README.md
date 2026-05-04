@@ -6,7 +6,7 @@
 ---
 
 ## 🌐 Live Demo
-**Deployment:** [https://your-username.github.io/phishguard-ai](https://your-username.github.io/phishguard-ai)
+**Deployment:** [https://maqbooltemro-bit.github.io/phishguard-ai](https://maqbooltemro-bit.github.io/phishguard-ai)
 
 ---
 
@@ -112,7 +112,7 @@ phishguard-ai/
 3. Under "Source", select **Deploy from a branch**
 4. Select **main branch** and **/ (root)** folder
 5. Click **Save**
-6. Your site will be live at `https://your-username.github.io/phishguard-ai`
+6. Your site will be live at `https://maqbooltemro-bit.github.io/phishguard-ai`
 
 **That's it! No build step, no npm, no server required.**
 
@@ -122,7 +122,7 @@ phishguard-ai/
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/phishguard-ai.git
+git clone https://github.com/maqbooltemro-bit/phishguard-ai.git
 
 # Open in browser (no server needed)
 cd phishguard-ai
@@ -168,16 +168,12 @@ verdict = "PHISHING"   if score >= 60
 
 ---
 
-## 📸 Screenshots
 
-*(Add screenshots of your running app here)*
-
----
 
 ## 🔗 Links
 
-- **GitHub Repo:** https://github.com/your-username/phishguard-ai
-- **Live Demo:** https://your-username.github.io/phishguard-ai
+- **GitHub Repo:** https://github.com/maqbooltemro-bit/phishguard-ai
+- **Live Demo:** https://maqbooltemro-bit.github.io/phishguard-ai
 - **PTA Complaint Portal:** https://report.pta.gov.pk
 
 ---
