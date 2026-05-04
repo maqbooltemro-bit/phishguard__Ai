@@ -1,2 +1,2 @@
 # phishguard__Ai
-AI-Powered Phishing &amp; Scam Detector | Custom ML Classifier + RAG Knowledge Base | Security Domain
+AI Phishing & Scam Detector using ML Classifier and RAG Knowledge Base
