@@ -172,9 +172,9 @@ verdict = "PHISHING"   if score >= 60
 
 ## 🔗 Links
 
-GitHub Repo: https://github.com/maqbooltemro-bit/phishguard__Ai
-Live Demo: https://maqbooltemro-bit.github.io/phishguard__Ai
-PTA Complaint Portal: https://report.pta.gov.pk
+- GitHub Repo: https://github.com/maqbooltemro-bit/phishguard__Ai
+- Live Demo: https://maqbooltemro-bit.github.io/phishguard__Ai
+- PTA Complaint Portal: https://report.pta.gov.pk
 
 ---
 
