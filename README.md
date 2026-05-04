@@ -122,10 +122,10 @@ phishguard-ai/
 
 ```bash
 # Clone the repo
-git clone https://github.com/maqbooltemro-bit/phishguard-ai.git
+git clone https://github.com/maqbooltemro-bit/phishguard__Ai.git
 
 # Open in browser (no server needed)
-cd phishguard-ai
+cd phishguard__Ai
 open index.html
 # OR double-click index.html in file explorer
 ```
