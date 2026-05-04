@@ -16,7 +16,6 @@
 |------|---------|
 | Member 1 | maqbool Ahmed 2k24/AI/44|
 | Member 2 | Abdul wasie 2k24/AI/03 |
-| Member 3 | XXXX-BSCS-XX |
 
 ---
 
